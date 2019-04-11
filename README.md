@@ -1,2 +1,2 @@
 # Android
-Contains source code of android projects and sample applications
+Contains source code of android projects and some sample applications
